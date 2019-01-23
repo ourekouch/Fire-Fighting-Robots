@@ -1,0 +1,24 @@
+
+
+	############################### RAPPORT FIGHTFIRE ROBOTS ###################################
+
+
+
+DATE AND TIME :		 Mon Nov 12 00:10:18 2018
+
+
+MAPS INFORMATIONS :
+
+	#LONGEUR:	7	KM
+	#LARGEUR:	7	KM
+	#SURFACE:	49	KM²
+
+SIMULATION INFORMATIONS :
+
+	#DUREE DE SIMULATION:	104.000000	 second
+	#NOMBRE DES ROBOTS:	3	ROBOT
+	#NOMBRE DES OBSTACLES:	3	OBSTACLE
+	#NOMBRE DES FEUX:	2	FEU
+
+	#####################################   FIN RAPPORT ########################################
+
